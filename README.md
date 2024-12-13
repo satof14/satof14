@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a first-year Master's student focused on **AI
 
 ---
 
-## 🎅 About Me
+## 🚀 About Me
 - ☃️ **Academic & Research Focus**
   - As an undergraduate and early in my master's program, I focused on deep learning approaches for **set-structured data**, aiming to handle unordered collections effectively. During this phase, I explored methods to improve **confidence calibration** and **semi-supervised learning** for such data.
  
